@@ -23,5 +23,5 @@ def primes(number_of_primes):
     return list
 
 
-print(primes(5))
+# print(primes(5))
 print(primes(-5))
