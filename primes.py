@@ -24,4 +24,4 @@ def primes(number_of_primes):
 
 
 # print(primes(5))
-print(primes(-5))
+# print(primes(-5))
